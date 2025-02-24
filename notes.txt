@@ -1,0 +1,9 @@
+What is x86?
+
+A computer architecture for CPU developed by Intel in 1978
+
+It is an extension on 8080 microprocessor which is 8 bit
+
+What is a Register?
+
+A storage location within CPU that temporarily holds data or instructions for immediate processing
